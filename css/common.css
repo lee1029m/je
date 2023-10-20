@@ -25,6 +25,7 @@ body {
 }
 html,body {
     font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 #wrap {
     font-size: 16px;
